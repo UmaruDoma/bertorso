@@ -2,13 +2,13 @@
 ai
 terminal
 
-https://www.tensorflow.org/text/tutorials/classify_text_with_bert 
-pip install -U "tensorflow-text==2.13.*"
-pip install "tf-models-official==2.13.*"
+https://www.tensorflow.org/text/tutorials/classify_text_with_bert \
+pip install -U "tensorflow-text==2.13.*" \
+pip install "tf-models-official==2.13.*" \
 
 
 
-Code
+Code \
 
 import os
 import shutil
