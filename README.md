@@ -1,7 +1,7 @@
 # bertorso
 ai
 terminal
-
+https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/bert-explainable-ai/ \
 https://www.tensorflow.org/text/tutorials/classify_text_with_bert \
 pip install -U "tensorflow-text==2.13.*" \
 pip install "tf-models-official==2.13.*" \
